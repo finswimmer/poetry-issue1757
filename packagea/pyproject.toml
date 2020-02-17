@@ -6,7 +6,7 @@ authors = ["Example <finswimmer@example.org>"]
 
 [tool.poetry.dependencies]
 python = "^3.8"
-packageB = {path = "../packageb"}
+packageb = {path = "../packageb"}
 
 
 [build-system]
